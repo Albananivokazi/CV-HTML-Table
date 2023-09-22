@@ -1,0 +1,1 @@
+tek.push(array[i])
